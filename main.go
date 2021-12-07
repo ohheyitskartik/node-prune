@@ -9,7 +9,6 @@ import (
 	"github.com/apex/log"
 	"github.com/apex/log/handlers/cli"
 	"github.com/dustin/go-humanize"
-
 	"github.com/ohheyitskartik/node-prune/internal/prune"
 )
 
